@@ -1,4 +1,4 @@
-The goal of the project is to compare different types of Machine Learning Models on Given Lung Cancer Dataset.
+The goal of the project is to compare different types of Machine Learning Models on Given Lung Cancer Dataset
 
 The Models used are:
 Logistic Regression : Accuracy = 0.95
