@@ -1,0 +1,17 @@
+Project Name - Lung Cancer Detection.
+Department - Computer Science And Engineering
+Batch - 1
+
+Group Members : 
+1) Name- Arnab Chatterjee 
+   Roll - 21/CSE/038
+
+2) Name- Arnab Shit
+   Roll - 21/CSE/039
+
+3) Name- Bishakh Dutta
+   Roll - 21/CSE/053
+
+4) Name- Biswadip Jana
+   Roll - 21/CSE/054
+   
